@@ -18,7 +18,7 @@ assignees:
 status-website:
   cname: status.tictactrip.eu
   logoUrl: https://svgshare.com/i/nS3.svg
-  name: Tictactrip status page
+  name: Tictactrip
   introTitle: "**Tictactrip** service status."
   introMessage: Status page which uses **real-time** data.
   navbar:
