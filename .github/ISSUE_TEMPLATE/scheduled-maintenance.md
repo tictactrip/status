@@ -9,7 +9,7 @@ assignees: ''
 
 Scheduled maintenance ( Providers updates )
 Affected services: API, Website
-Lasting from Tue Dec 20 17:00:00 GMT 2022 to Tue Dec 20 17:30:00 GMT 2022
+Lasting from `Wed Jan 25 2022 at 23:00:00 GMT` to `Wed Jan 26 2022 at 00:00:00 GMT`
 
 <!--
 start: 2022-12-20T17:00:00+00:00
