@@ -9,10 +9,10 @@ assignees: ''
 
 ### Scheduled maintenance ( Providers updates )
 Affected services: **API**, **Website**
-Lasting from `Mon Jan 13 2023 at 23:00:00 GMT` to `Wed Jan 13 2023 at 00:00:00 GMT`
+Lasting from `Tue Jan 10 2023 at 23:59 Europe/Paris` to `Wed Jan 11 2023 at 00:59 Europe/Paris`
 
 <!--
-start: 2023-01-13T23:00:00+00:00
-end: 2023-01-14T00:00:00+00:00
+start: 2023-01-10T23:59:00+01:00
+end: 2023-01-11T00:59:00+01:00
 expectedDown: API, Website
 -->
