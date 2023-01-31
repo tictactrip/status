@@ -1,7 +1,7 @@
 url: https://api.tictactrip.eu
-status: down
-code: 503
-responseTime: 444
-lastUpdated: 2023-01-31T11:49:11.205Z
+status: up
+code: 200
+responseTime: 8996
+lastUpdated: 2023-01-31T11:55:33.349Z
 startTime: Tue Oct 18 2022 12:54:30 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
