@@ -37,7 +37,7 @@
   },
   {
     "name": "API",
-    "url": "https://api.tictactrip.eu",
+    "url": "https://api.tictactrip.eu/apistatus/maintenance",
     "icon": "https://icons.duckduckgo.com/ip3/api.tictactrip.eu.ico",
     "slug": "api",
     "status": "up",
