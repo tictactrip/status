@@ -7,13 +7,11 @@ sites:
   - name: Blog
     url: https://www.tictactrip.eu/blog
   - name: API
-    url: https://api.tictactrip.eu/apistatus/maintenance
+    url: https://api.tictactrip.eu/apistatus/maintenance 
 
 assignees:
   - rimiti
   - simobain
-  - swanng
-  - rizialdi
   - alexfrst
   - jean-philippeBuffon
 
