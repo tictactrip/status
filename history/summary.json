@@ -22,19 +22,19 @@
     "url": "https://www.tictactrip.eu/blog",
     "icon": "https://icons.duckduckgo.com/ip3/www.tictactrip.eu.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 645,
-    "timeDay": 562,
-    "timeWeek": 582,
-    "timeMonth": 653,
-    "timeYear": 645,
+    "time": 643,
+    "timeDay": 432,
+    "timeWeek": 528,
+    "timeMonth": 635,
+    "timeYear": 643,
     "dailyMinutesDown": {
-      "2023-07-18": 11
+      "2023-07-18": 0
     }
   },
   {
