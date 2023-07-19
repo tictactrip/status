@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 563,
-    "timeDay": 779,
-    "timeWeek": 502,
-    "timeMonth": 542,
+    "timeDay": 536,
+    "timeWeek": 528,
+    "timeMonth": 544,
     "timeYear": 563,
     "dailyMinutesDown": {}
   },
@@ -24,18 +24,16 @@
     "slug": "blog",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 643,
-    "timeDay": 469,
-    "timeWeek": 536,
-    "timeMonth": 634,
+    "timeDay": 437,
+    "timeWeek": 547,
+    "timeMonth": 633,
     "timeYear": 643,
-    "dailyMinutesDown": {
-      "2023-07-18": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "API",
@@ -49,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 607,
-    "timeDay": 565,
-    "timeWeek": 433,
-    "timeMonth": 512,
+    "timeDay": 518,
+    "timeWeek": 454,
+    "timeMonth": 513,
     "timeYear": 607,
     "dailyMinutesDown": {
       "2023-03-09": 20,
