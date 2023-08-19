@@ -1,7 +1,7 @@
 url: https://api.tictactrip.eu/apistatus/maintenance
 status: up
 code: 200
-responseTime: 527
-lastUpdated: 2023-08-18T23:03:46.552Z
-startTime: Tue Oct 18 2022 12:54:30 GMT+0000 (Coordinated Universal Time)
+responseTime: 866
+lastUpdated: 2023-08-19T23:03:45.131Z
+startTime: 2022-10-18T12:54:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
