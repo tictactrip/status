@@ -4,9 +4,9 @@
     "url": "https://www.tictactrip.eu",
     "icon": "https://icons.duckduckgo.com/ip3/www.tictactrip.eu.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,43 +15,48 @@
     "timeWeek": 550,
     "timeMonth": 600,
     "timeYear": 553,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-30": 0
+    }
   },
   {
     "name": "Blog",
     "url": "https://www.tictactrip.eu/blog",
     "icon": "https://icons.duckduckgo.com/ip3/www.tictactrip.eu.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 656,
     "timeDay": 894,
     "timeWeek": 650,
-    "timeMonth": 671,
+    "timeMonth": 665,
     "timeYear": 655,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-30": 0
+    }
   },
   {
     "name": "API",
     "url": "https://api.tictactrip.eu/apistatus/maintenance",
     "icon": "https://icons.duckduckgo.com/ip3/api.tictactrip.eu.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 580,
+    "time": 579,
     "timeDay": 663,
     "timeWeek": 468,
-    "timeMonth": 498,
+    "timeMonth": 495,
     "timeYear": 602,
     "dailyMinutesDown": {
+      "2025-05-30": 0,
       "2024-11-17": 20,
       "2024-11-07": 22,
       "2024-07-05": 78
