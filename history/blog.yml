@@ -1,7 +1,7 @@
 url: https://www.tictactrip.eu/blog
-status: up
-code: 200
-responseTime: 510
-lastUpdated: 2025-06-15T23:16:37.338Z
+status: down
+code: 500
+responseTime: 5482
+lastUpdated: 2025-06-16T14:41:35.921Z
 startTime: 2022-10-18T12:54:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
