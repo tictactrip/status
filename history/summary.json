@@ -52,17 +52,17 @@
     "url": "https://api.tictactrip.eu/apistatus/maintenance",
     "icon": "https://icons.duckduckgo.com/ip3/api.tictactrip.eu.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 590,
-    "timeDay": 360,
-    "timeWeek": 499,
-    "timeMonth": 991,
-    "timeYear": 621,
+    "time": 589,
+    "timeDay": 328,
+    "timeWeek": 474,
+    "timeMonth": 969,
+    "timeYear": 620,
     "dailyMinutesDown": {
       "2025-07-28": 110,
       "2025-07-27": 68,
@@ -70,7 +70,8 @@
       "2025-07-29": 79,
       "2025-09-09": 17,
       "2026-01-16": 29,
-      "2026-03-04": 99
+      "2026-03-04": 99,
+      "2026-07-24": 0
     }
   }
 ]
