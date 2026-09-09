@@ -10,14 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 650,
-    "timeDay": 804,
-    "timeWeek": 858,
-    "timeMonth": 786,
+    "time": 651,
+    "timeDay": 783,
+    "timeWeek": 849,
+    "timeMonth": 790,
     "timeYear": 677,
-    "dailyMinutesDown": {
-      "2025-09-09": 18
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Blog",
@@ -29,12 +27,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.70%",
-    "time": 1022,
-    "timeDay": 1369,
-    "timeWeek": 1476,
-    "timeMonth": 1493,
-    "timeYear": 1079,
+    "uptimeYear": "99.78%",
+    "time": 1024,
+    "timeDay": 1486,
+    "timeWeek": 1418,
+    "timeMonth": 1494,
+    "timeYear": 1080,
     "dailyMinutesDown": {
       "2025-10-31": 274,
       "2026-02-20": 42,
@@ -53,13 +51,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 588,
-    "timeDay": 587,
-    "timeWeek": 502,
-    "timeMonth": 502,
+    "time": 587,
+    "timeDay": 424,
+    "timeWeek": 501,
+    "timeMonth": 506,
     "timeYear": 614,
     "dailyMinutesDown": {
-      "2025-09-09": 17,
       "2026-01-16": 29,
       "2026-03-04": 99,
       "2026-07-24": 61
