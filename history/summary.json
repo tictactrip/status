@@ -44,21 +44,22 @@
     "url": "https://api.tictactrip.eu/apistatus/maintenance",
     "icon": "https://icons.duckduckgo.com/ip3/api.tictactrip.eu.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 590,
-    "timeDay": 426,
-    "timeWeek": 527,
-    "timeMonth": 491,
+    "timeDay": 355,
+    "timeWeek": 496,
+    "timeMonth": 484,
     "timeYear": 591,
     "dailyMinutesDown": {
       "2026-01-16": 29,
       "2026-03-04": 99,
-      "2026-07-24": 61
+      "2026-07-24": 61,
+      "2026-11-13": 0
     }
   }
 ]
